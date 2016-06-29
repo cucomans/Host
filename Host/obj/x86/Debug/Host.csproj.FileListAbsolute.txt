@@ -1,0 +1,10 @@
+C:\Users\CXO\Desktop\Host\Host\bin\Debug\Host.exe.config
+C:\Users\CXO\Desktop\Host\Host\bin\Debug\Host.exe
+C:\Users\CXO\Desktop\Host\Host\bin\Debug\Host.pdb
+C:\Users\CXO\Desktop\Host\Host\bin\Debug\NetComm.dll
+C:\Users\CXO\Desktop\Host\Host\obj\x86\Debug\Host.Properties.Resources.resources
+C:\Users\CXO\Desktop\Host\Host\obj\x86\Debug\Host.csproj.GenerateResource.Cache
+C:\Users\CXO\Desktop\Host\Host\obj\x86\Debug\Host.exe
+C:\Users\CXO\Desktop\Host\Host\obj\x86\Debug\Host.pdb
+C:\Users\CXO\Desktop\Host\Host\obj\x86\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\CXO\Desktop\Host\Host\obj\x86\Debug\Host.Persona.resources
